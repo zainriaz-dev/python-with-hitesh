@@ -1,6 +1,6 @@
 is_milk_boiling = True
 stir_count = 5
-total_actions = is_milk_boiling + stir_count # 
+total_actions = is_milk_boiling + stir_count
 print(f"Total Actions: {total_actions}")
 
 milk_present = 1 # this can be either like 1,TRUE, OR False,0,None. for right now we've assume that the milk is available.
